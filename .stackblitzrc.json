@@ -1,0 +1,7 @@
+{
+  "installDependencies": true,
+  "startCommand": "my-custom-command",
+  "env": {
+    "NODE_ENV": "development"
+  }
+}
