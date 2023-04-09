@@ -5,7 +5,7 @@
   "license": "MIT",
   "type": "module",
   "stackblitz": {
-    "startCommand": "npm start"
+    "startCommand": "npm run dev"
   },
   "scripts": {
     "dev": "vite",
